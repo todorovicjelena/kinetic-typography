@@ -1,3 +1,3 @@
 # kinetic-typography
 
-![](Kinetic-typography.mov)
+![](Kinetic-typography.gif)
