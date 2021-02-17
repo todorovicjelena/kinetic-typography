@@ -2,14 +2,12 @@
 PGraphics pg;
 PFont font;
 
-
 void setup() {
     font = createFont("Roboto-Regular.ttf", 600);
     size(800, 800, P2D);
     pg = createGraphics(800, 800, P2D);
     
 }
-
 
 void draw() {
     
@@ -56,6 +54,5 @@ void draw() {
             
         }
     }
-    
     
 }
